@@ -13,4 +13,4 @@ _spiritual songs_
 
 ---
 
-[Ancient Word](ancient_words)
+[Ancient Word](ancient_words.html)
